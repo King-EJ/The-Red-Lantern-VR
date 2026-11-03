@@ -22,7 +22,7 @@ CONTROLS - the Quest controllers are the game's gamepad (the game shows gamepad 
                           
   Left grip ............. LB
   
-  Right grip .......... RB
+  Right grip .......... RB (toggle laser)
   
   Left stick ............ left stick (menus: move the selection)
   
